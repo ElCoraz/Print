@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.16">
+	<ConfigVersions>
+		<Metadata name="Configuration.Print" id="5d24bf3c-d3a2-4980-96f7-2931bdb19f60" configVersion="62f51c58121c9ab98b77b7a96338af88586c2d67"/>
+		<Metadata name="HTTPService.check" id="848330bc-abce-48ee-a079-0c3583a57906" configVersion="4b937da2fee593fdc37ab506210d8c8639464c6b">
+			<Metadata name="HTTPService.check.URLTemplate.status.Method.get" id="2c66c0ed-9206-4dba-adb3-6fa1421390c5"/>
+			<Metadata name="HTTPService.check.URLTemplate.status" id="4773b009-84e6-4a6d-ad0c-0e5e98883dfe"/>
+		</Metadata>
+		<Metadata name="HTTPService.check.Module" id="848330bc-abce-48ee-a079-0c3583a57906.0" configVersion="5ef517078f0922e2f81af3462f3c78123ca107f4"/>
+		<Metadata name="HTTPService.print" id="e946bc01-7b52-4101-984f-024ad521cea7" configVersion="e845bd0d806a103d784f18dd6acd2a70a71cb3c3">
+			<Metadata name="HTTPService.print.URLTemplate.maket.Method.post" id="0dc84642-37a6-455d-b972-c91dfb2331dd"/>
+			<Metadata name="HTTPService.print.URLTemplate.maket" id="d63fb444-346f-448c-9d56-0ed2f7ccedfc"/>
+		</Metadata>
+		<Metadata name="HTTPService.print.Module" id="e946bc01-7b52-4101-984f-024ad521cea7.0" configVersion="6141871a0d0228807aac680d43061c973139cb6f"/>
+		<Metadata name="Language.Русский" id="89889883-ae7d-443c-83d2-96c8e01597e8" configVersion="edc16d529f0b924bc0134a46d26d0cc2d4719077"/>
+		<Metadata name="Role.Print_ОсновнаяРоль" id="c9dc99db-f978-46c9-97c3-11bbaadd4c3c" configVersion="6ccadd45e70844e1309d7bae3df3e885013eadc6"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
